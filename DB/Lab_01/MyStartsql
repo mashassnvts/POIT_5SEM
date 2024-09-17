@@ -1,0 +1,41 @@
+create table SMI_t(x number(3) primary key, s varchar(50));
+
+insert into SMI_t(x,s) values (1, 'one');
+insert into SMI_t(x,s) values (2,'two');
+insert into SMI_t(x,s) values (3, 'three');
+commit;
+select * from SMI_t;
+drop table SMI_t;
+
+update SMI_t set x = 11 where s= 'one';
+update SMI_t set x = 22 where s = 'two';
+commit;
+
+select count(*) as cou from SMI_t;
+select * from SMI_t where x > 10;
+select max(x) as max_value from SMI_t;
+select avg(x) as avg_value from SMI_t;
+
+
+delete SMI_t where s = 'three';
+commit;
+
+
+create table SMI_t1(
+x1 number(3), 
+s1 varchar(50), 
+foreign key(x1) references SMI_t(x)
+);
+insert into SMI_t1(x1,s1) values (11, 'eight1');
+select * from SMI_t1;
+commit;
+
+
+select * from SMI_t left join SMI_t1 on SMI_t.x = x1;
+select * from SMI_t right join SMI_t1 on SMI_t.x = x1;
+select SMI_t.x, SMI_t.s, SMI_t1.s1 from SMI_t inner join SMI_t1 on SMI_t.x = SMI_t1.x1;
+
+
+
+drop table SMI_t;
+drop table SMI_t1;
