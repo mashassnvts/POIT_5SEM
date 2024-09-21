@@ -1,0 +1,1 @@
+clang CMakeFiles/StrTypeChecker.dir/Lab_01/Lab_01.c.o -o StrTypeChecker 
