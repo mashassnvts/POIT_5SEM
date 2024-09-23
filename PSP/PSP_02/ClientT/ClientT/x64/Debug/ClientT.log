@@ -1,0 +1,3 @@
+﻿  ClientT.cpp
+D:\masha\university\PSP\Lab2\ClientT\ClientT.cpp(75,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ClientT.vcxproj -> D:\masha\university\PSP\Lab2\ClientT\x64\Debug\ClientT.exe

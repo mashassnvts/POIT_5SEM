@@ -1,0 +1,4 @@
+﻿  ServerT.cpp
+D:\masha\university\PSP\Lab2\Server_T\ServerT.cpp(75,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\masha\university\PSP\Lab2\Server_T\ServerT.cpp(136,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server_T.vcxproj -> D:\masha\university\PSP\Lab2\Server_T\x64\Debug\Server_T.exe
