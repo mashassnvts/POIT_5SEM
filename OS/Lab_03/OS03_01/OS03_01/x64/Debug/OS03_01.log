@@ -1,0 +1,4 @@
+﻿  OS03_01.cpp
+D:\masha\university\OS\Lab_03\OS03_01\OS03_01\OS03_01.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\masha\university\OS\Lab_03\OS03_01\OS03_01\OS03_01.cpp(6,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OS03_01.vcxproj -> D:\masha\university\OS\Lab_03\OS03_01\x64\Debug\OS03_01.exe

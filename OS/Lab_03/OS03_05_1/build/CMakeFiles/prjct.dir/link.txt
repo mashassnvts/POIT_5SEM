@@ -1,0 +1,1 @@
+clang CMakeFiles/prjct.dir/OS03_05_1/OS03_05_1.c.o -o prjct 

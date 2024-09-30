@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masha\\university\\OS\\Lab_03\\OS03_05_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masha\\university\\OS\\OS03_05_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198DB498-484B-4C88-9528-E1CF91E1D4D3}|OS03_05_1\\OS03_05_1.vcxproj|D:\\masha\\university\\OS\\Lab_03\\OS03_05_1\\OS03_05_1\\OS03_05_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DB498-484B-4C88-9528-E1CF91E1D4D3}|OS03_05_1\\OS03_05_1.vcxproj|solutionrelative:OS03_05_1\\OS03_05_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS03_05_1.c",
+              "DocumentMoniker": "D:\\masha\\university\\OS\\OS03_05_1.c",
+              "RelativeDocumentMoniker": "..\\..\\OS03_05_1.c",
+              "ToolTip": "D:\\masha\\university\\OS\\OS03_05_1.c",
+              "RelativeToolTip": "..\\..\\OS03_05_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-29T08:12:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS03_05_1.c",
+              "DocumentMoniker": "D:\\masha\\university\\OS\\Lab_03\\OS03_05_1\\OS03_05_1\\OS03_05_1.c",
+              "RelativeDocumentMoniker": "OS03_05_1\\OS03_05_1.c",
+              "ToolTip": "D:\\masha\\university\\OS\\Lab_03\\OS03_05_1\\OS03_05_1\\OS03_05_1.c",
+              "RelativeToolTip": "OS03_05_1\\OS03_05_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T19:29:40.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2ee35/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2ee35.dir/build.make CMakeFiles/cmTC_2ee35.dir/build
+gmake[1]: Entering directory '/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o
+/usr/bin/x86_64-w64-mingw32-gcc   -v -o CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/x86_64-w64-mingw32-gcc
+Target: x86_64-w64-mingw32
+Configured with: ../../src/configure --build=x86_64-linux-gnu --prefix=/usr --includedir='/usr/include' --mandir='/usr/share/man' --infodir='/usr/share/info' --sysconfdir=/etc --localstatedir=/var --disable-option-checking --disable-silent-rules --libdir='/usr/lib/x86_64-linux-gnu' --libexecdir='/usr/lib/x86_64-linux-gnu' --disable-maintainer-mode --disable-dependency-tracking --prefix=/usr --enable-shared --enable-static --disable-multilib --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --libdir=/usr/lib --enable-libstdcxx-time=yes --with-tune=generic --with-headers --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libgomp --enable-languages=c,c++,fortran,objc,obj-c++,ada --enable-lto --enable-threads=win32 --program-suffix=-win32 --program-prefix=x86_64-w64-mingw32- --target=x86_64-w64-mingw32 --with-as=/usr/bin/x86_64-w64-mingw32-as --with-ld=/usr/bin/x86_64-w64-mingw32-ld --enable-libatomic --enable-libstdcxx-filesystem-ts=yes --enable-dependency-tracking SED=/bin/sed
+Thread model: win32
+Supported LTO compression algorithms: zlib
+gcc version 10-win32 20220113 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-w64-mingw32/10-win32/cc1 -quiet -v -U_REENTRANT /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o -version -o /tmp/ccXwrUO2.s
+GNU C17 (GCC) version 10-win32 20220113 (x86_64-w64-mingw32)
+	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/sys-include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/x86_64-w64-mingw32/10-win32/include
+ /usr/lib/gcc/x86_64-w64-mingw32/10-win32/include-fixed
+ /usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C17 (GCC) version 10-win32 20220113 (x86_64-w64-mingw32)
+	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 540c311885c0710cac74cf12fb1ae6c1
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /usr/bin/x86_64-w64-mingw32-as -v -o CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o /tmp/ccXwrUO2.s
+GNU assembler version 2.38 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.38
+COMPILER_PATH=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_2ee35
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ee35.dir/link.txt --verbose=1
+/usr/bin/x86_64-w64-mingw32-gcc  -v CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o -o cmTC_2ee35 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/x86_64-w64-mingw32-gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/lto-wrapper
+Target: x86_64-w64-mingw32
+Configured with: ../../src/configure --build=x86_64-linux-gnu --prefix=/usr --includedir='/usr/include' --mandir='/usr/share/man' --infodir='/usr/share/info' --sysconfdir=/etc --localstatedir=/var --disable-option-checking --disable-silent-rules --libdir='/usr/lib/x86_64-linux-gnu' --libexecdir='/usr/lib/x86_64-linux-gnu' --disable-maintainer-mode --disable-dependency-tracking --prefix=/usr --enable-shared --enable-static --disable-multilib --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --libdir=/usr/lib --enable-libstdcxx-time=yes --with-tune=generic --with-headers --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libgomp --enable-languages=c,c++,fortran,objc,obj-c++,ada --enable-lto --enable-threads=win32 --program-suffix=-win32 --program-prefix=x86_64-w64-mingw32- --target=x86_64-w64-mingw32 --with-as=/usr/bin/x86_64-w64-mingw32-as --with-ld=/usr/bin/x86_64-w64-mingw32-ld --enable-libatomic --enable-libstdcxx-filesystem-ts=yes --enable-dependency-tracking SED=/bin/sed
+Thread model: win32
+Supported LTO compression algorithms: zlib
+gcc version 10-win32 20220113 (GCC) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/:/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2ee35.exe' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-w64-mingw32/10-win32/collect2 -plugin /usr/lib/gcc/x86_64-w64-mingw32/10-win32/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-w64-mingw32/10-win32/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3JHKzk.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pep -Bdynamic -o cmTC_2ee35.exe /usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/lib/crt2.o /usr/lib/gcc/x86_64-w64-mingw32/10-win32/crtbegin.o -L/usr/lib/gcc/x86_64-w64-mingw32/10-win32 -L/usr/lib/gcc/x86_64-w64-mingw32/10-win32/../../../../x86_64-w64-mingw32/lib CMakeFiles/cmTC_2ee35.dir/CMakeCCompilerABI.c.o -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt /usr/lib/gcc/x86_64-w64-mingw32/10-win32/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2ee35.exe' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp'
+
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin'
+Unable to find the executable at any of:
+  /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp/cmTC_2ee35
+  /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp/Debug/cmTC_2ee35
+  /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp/Development/cmTC_2ee35
+
+

@@ -1,0 +1,28 @@
+The system is: Linux - 5.15.153.1-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/x86_64-w64-mingw32-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/3.22.1/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9bcc2/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9bcc2.dir/build.make CMakeFiles/cmTC_9bcc2.dir/build
+gmake[1]: Entering directory '/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9bcc2.dir/testCCompiler.c.o
+/usr/bin/x86_64-w64-mingw32-gcc    -o CMakeFiles/cmTC_9bcc2.dir/testCCompiler.c.o -c /mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9bcc2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bcc2.dir/link.txt --verbose=1
+/usr/bin/x86_64-w64-mingw32-gcc CMakeFiles/cmTC_9bcc2.dir/testCCompiler.c.o -o cmTC_9bcc2 
+gmake[1]: Leaving directory '/mnt/d/masha/university/OS/Lab_03/OS03_01/OS03_04/CMakeFiles/CMakeTmp'
+
+
+

@@ -1,0 +1,3 @@
+/mnt/d/masha/university/OS/Lab_03/OS03_05_1/build/CMakeFiles/prjct.dir
+/mnt/d/masha/university/OS/Lab_03/OS03_05_1/build/CMakeFiles/edit_cache.dir
+/mnt/d/masha/university/OS/Lab_03/OS03_05_1/build/CMakeFiles/rebuild_cache.dir

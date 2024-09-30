@@ -1,0 +1,3 @@
+﻿  OS03_05_1.c
+D:\masha\university\OS\Lab_03\OS03_05_1\OS03_05_1\OS03_05_1.c(15,52): warning C4013: getpid: нет определения; предполагается "extern" с возвратом типа "int"
+  OS03_05_1.vcxproj -> D:\masha\university\OS\Lab_03\OS03_05_1\x64\Debug\OS03_05_1.exe
