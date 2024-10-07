@@ -1,0 +1,14 @@
+D:\masha\university\OS\Lab_04\Task_05\Task_05\bin\Debug\net8.0\Task_05.exe
+D:\masha\university\OS\Lab_04\Task_05\Task_05\bin\Debug\net8.0\Task_05.deps.json
+D:\masha\university\OS\Lab_04\Task_05\Task_05\bin\Debug\net8.0\Task_05.runtimeconfig.json
+D:\masha\university\OS\Lab_04\Task_05\Task_05\bin\Debug\net8.0\Task_05.dll
+D:\masha\university\OS\Lab_04\Task_05\Task_05\bin\Debug\net8.0\Task_05.pdb
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.AssemblyInfoInputs.cache
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.AssemblyInfo.cs
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.csproj.CoreCompileInputs.cache
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.dll
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\refint\Task_05.dll
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.pdb
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\Task_05.genruntimeconfig.cache
+D:\masha\university\OS\Lab_04\Task_05\Task_05\obj\Debug\net8.0\ref\Task_05.dll

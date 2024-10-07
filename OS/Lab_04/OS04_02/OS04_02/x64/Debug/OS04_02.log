@@ -1,0 +1,3 @@
+﻿  OS04_02.cpp
+D:\masha\university\OS\Lab_04\OS04_02\OS04_02\OS04_02.cpp(30,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OS04_02.vcxproj -> D:\masha\university\OS\Lab_04\OS04_02\x64\Debug\OS04_02.exe
