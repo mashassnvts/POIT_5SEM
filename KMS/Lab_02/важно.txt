@@ -1,0 +1,1 @@
+Лабораторные работы, а точнее скрипты лежат lab_2 -> Assets -> Input_GetAxis.cs, Move_Key.cs, Rotation_Euler.cs, Rotation_EulerAngles.cs, Rotation_Quaternion.cs, Rotation_Rotate.cs, ScriptPosition.cs, ScriptScale.cs
