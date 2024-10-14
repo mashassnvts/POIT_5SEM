@@ -1,0 +1,6 @@
+﻿  ServerB.cpp
+D:\Учёба\5сем\ПСП\Lab5\ServerB\ServerB.cpp(97,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учёба\5сем\ПСП\Lab5\ServerB\ServerB.cpp(126,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учёба\5сем\ПСП\Lab5\ServerB\ServerB.cpp(193,35): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+D:\Учёба\5сем\ПСП\Lab5\ServerB\ServerB.cpp(201,33): warning C4244: аргумент: преобразование "SOCKET" в "short", возможна потеря данных
+  ServerB.vcxproj -> D:\Учёба\5сем\ПСП\Lab5\ServerB\x64\Debug\ServerB.exe

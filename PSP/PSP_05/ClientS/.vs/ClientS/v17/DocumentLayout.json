@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masha\\university\\PSP\\Lab5\\ClientS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446629B5-B522-472E-A39D-156B8E2747BA}|ClientS.vcxproj|D:\\masha\\university\\PSP\\Lab5\\ClientS\\ClientS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{446629B5-B522-472E-A39D-156B8E2747BA}|ClientS.vcxproj|solutionrelative:ClientS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientS.cpp",
+              "DocumentMoniker": "D:\\masha\\university\\PSP\\Lab5\\ClientS\\ClientS.cpp",
+              "RelativeDocumentMoniker": "ClientS.cpp",
+              "ToolTip": "D:\\masha\\university\\PSP\\Lab5\\ClientS\\ClientS.cpp",
+              "RelativeToolTip": "ClientS.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T19:46:37.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
