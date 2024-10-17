@@ -1,0 +1,274 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="o2LpHMz9A4qz4fQOUuDM">
+    <mxGraphModel dx="1105" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-2" target="TO-YpQHjQy2A2dFAb-sW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-2" value="Главная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-4" value="Каталог курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-6" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-8" value="Поиск курсов&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-9" value="Просмотр страницы курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-10" value="Популярные темы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-12" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-14" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-18" value="Новости" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-19" value="Запуск курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-21" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-23" value="Обзор курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-4" target="TO-YpQHjQy2A2dFAb-sW-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="90" as="sourcePoint" />
+            <mxPoint x="100" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="sourcePoint" />
+            <mxPoint x="90" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-12" target="TO-YpQHjQy2A2dFAb-sW-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="TO-YpQHjQy2A2dFAb-sW-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="190" as="sourcePoint" />
+            <mxPoint x="460" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-21" target="TO-YpQHjQy2A2dFAb-sW-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-35" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="400" as="sourcePoint" />
+            <mxPoint x="830" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-59" value="Главная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-60" value="Каталог курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-61" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-62" value="Поиск курсов&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-63" value="Просмотр страницы курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-64" value="Популярные темы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-65" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-66" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-67" value="Новости" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-68" value="Запуск курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-69" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-70" value="Обзор курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="460" />
+              <mxPoint x="500" y="460" />
+            </Array>
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="500" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="509.5" as="sourcePoint" />
+            <mxPoint x="660" y="509.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="540" as="sourcePoint" />
+            <mxPoint x="510" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="649.5" as="sourcePoint" />
+            <mxPoint x="360" y="649.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-65" target="TO-YpQHjQy2A2dFAb-sW-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="690" as="sourcePoint" />
+            <mxPoint x="380" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="700" />
+              <mxPoint x="720" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-86" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="850" as="sourcePoint" />
+            <mxPoint x="830" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-88" value="Главная страница" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-89" value="Каталог курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-90" value="Регистрация пользователя" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-91" value="Поиск курсов&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-92" target="TO-YpQHjQy2A2dFAb-sW-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1130" />
+              <mxPoint x="510" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-92" value="Просмотр страницы курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-93" value="Популярные темы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-94" value="Корзина" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-95" value="Профиль&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-96" value="Новости" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-97" value="Запуск курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-98" target="TO-YpQHjQy2A2dFAb-sW-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-98" value="Оплата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-99" value="Обзор курса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="880" />
+              <mxPoint x="720" y="880" />
+            </Array>
+            <mxPoint x="300" y="910" as="sourcePoint" />
+            <mxPoint x="720" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="939.5" as="sourcePoint" />
+            <mxPoint x="240" y="939.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-92" target="TO-YpQHjQy2A2dFAb-sW-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1170" as="sourcePoint" />
+            <mxPoint x="250" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1030" />
+              <mxPoint x="720" y="1030" />
+            </Array>
+            <mxPoint x="300" y="1050" as="sourcePoint" />
+            <mxPoint x="720" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-110" target="TO-YpQHjQy2A2dFAb-sW-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-110" value="Обсуждения курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.587;entryY=-0.053;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TO-YpQHjQy2A2dFAb-sW-96" target="TO-YpQHjQy2A2dFAb-sW-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO-YpQHjQy2A2dFAb-sW-116" value="&lt;h3&gt;1. Тур Интеллектуала (Бизнес-район)&lt;/h3&gt;&lt;h3&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Цели и действия:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Фокус на образовательном контенте:&lt;/strong&gt; Исследование качества курсов, материалов и методик обучения.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Анализ функциональности:&lt;/strong&gt; Проверка инструментов для оценки успеваемости, таких как тесты и задания.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Оценка интерфейса:&lt;/strong&gt; Удобство навигации по курсам, поиск и фильтрация по категориям.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Проверка аналитики:&lt;/strong&gt; Оценка доступности и понятности отчетов о прогрессе студентов.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Ожидаемые результаты:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;Понимание, насколько платформа помогает пользователям в обучении и получении знаний.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Выявление недостатков в курсовом контенте и функциональности.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Оценка возможности самостоятельного отслеживания прогресса.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/h3&gt;&lt;h3&gt;2. Тур Ночной Жизни (Туристический район)&lt;/h3&gt;&lt;h3&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Цели и действия:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Фокус на взаимодействии:&lt;/strong&gt; Исследование форумов, чатов и других социальных функций, которые позволяют студентам взаимодействовать.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Анализ пользовательского опыта:&lt;/strong&gt; Оценка удобства регистрации на курсы и участия в вебинарах.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Проверка мобильной версии:&lt;/strong&gt; Тестирование функционала на мобильных устройствах: доступность курсов, возможность просмотра видео и участия в обсуждениях.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Оценка акций и предложений:&lt;/strong&gt; Анализ рекламных кампаний и специальных предложений для привлечения пользователей.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Ожидаемые результаты:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;Понимание уровня вовлеченности студентов через социальные функции.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Выявление узких мест в пользовательском опыте.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Оценка эффективности маркетинговых кампаний.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/h3&gt;&lt;h3&gt;3. Тур Диверсанта (Проблемный район)&lt;/h3&gt;&lt;h3&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Цели и действия:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Фокус на уязвимостях:&lt;/strong&gt; Тестирование платформы на наличие уязвимостей, например, на возможность обхода авторизации.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Проверка надежности:&lt;/strong&gt; Оценка работы платформы под нагрузкой (многочисленные пользователи одновременно).&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Анализ обратной связи:&lt;/strong&gt; Проверка отзывов студентов о курсах и взаимодействии с поддержкой.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;strong&gt;Оценка доступности:&lt;/strong&gt; Исследование доступности контента для людей с ограниченными возможностями.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Ожидаемые результаты:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;Выявление потенциальных угроз безопасности приложения.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Понимание, как платформа справляется с высоким уровнем нагрузки.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Оценка удовлетворенности пользователей и качества поддержки.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="2060" width="640" height="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="FUej5epKEgmkeWZX0ho7-1" value="Обсуждения курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUej5epKEgmkeWZX0ho7-2" value="Обсуждения курсов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
