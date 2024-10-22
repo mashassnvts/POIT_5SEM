@@ -1,0 +1,10 @@
+^D:\MASHA\UNIVERSITY\SP\LAB-02C\BUILD\CMAKEFILES\04834C66CE2CC277A3F47726139C84FB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/masha/university/SP/Lab-02c -BD:/masha/university/SP/Lab-02c/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/masha/university/SP/Lab-02c/build/Lab-02c.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

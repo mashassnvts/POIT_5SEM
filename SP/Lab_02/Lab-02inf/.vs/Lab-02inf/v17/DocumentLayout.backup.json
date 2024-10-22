@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masha\\university\\SP\\SP_02\\Lab-02inf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7FB66-AD8E-4E8B-816F-E59F881909AA}|Lab-02inf\\Lab-02inf.vcxproj|D:\\masha\\university\\SP\\SP_02\\Lab-02inf\\Lab-02inf\\Lab-02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0C7FB66-AD8E-4E8B-816F-E59F881909AA}|Lab-02inf\\Lab-02inf.vcxproj|solutionrelative:Lab-02inf\\Lab-02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masha\\university\\samples.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masha\\Lab-02e.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masha\\Lab-02x.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "samples.c",
+              "DocumentMoniker": "D:\\masha\\university\\samples.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\samples.c",
+              "ToolTip": "D:\\masha\\university\\samples.c",
+              "RelativeToolTip": "..\\..\\..\\samples.c",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-10T15:47:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab-02x.c",
+              "DocumentMoniker": "D:\\masha\\Lab-02x.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lab-02x.c",
+              "ToolTip": "D:\\masha\\Lab-02x.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab-02x.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-10T14:41:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-02e.c",
+              "DocumentMoniker": "D:\\masha\\Lab-02e.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lab-02e.c",
+              "ToolTip": "D:\\masha\\Lab-02e.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab-02e.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-10T14:40:57.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-02inf.c",
+              "DocumentMoniker": "D:\\masha\\university\\SP\\SP_02\\Lab-02inf\\Lab-02inf\\Lab-02inf.c",
+              "RelativeDocumentMoniker": "Lab-02inf\\Lab-02inf.c",
+              "ToolTip": "D:\\masha\\university\\SP\\SP_02\\Lab-02inf\\Lab-02inf\\Lab-02inf.c",
+              "RelativeToolTip": "Lab-02inf\\Lab-02inf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-03T13:31:27.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

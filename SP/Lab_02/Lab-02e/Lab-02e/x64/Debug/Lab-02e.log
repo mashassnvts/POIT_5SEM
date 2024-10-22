@@ -1,0 +1,4 @@
+﻿  Lab-02e.c
+D:\masha\university\SP\SP_02\Lab-02e\Lab-02e\Lab-02e.c(20,9): warning C4013: getcwd: нет определения; предполагается "extern" с возвратом типа "int"
+D:\masha\university\SP\SP_02\Lab-02e\Lab-02e\Lab-02e.c(20,34): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+  Lab-02e.vcxproj -> D:\masha\university\SP\SP_02\Lab-02e\x64\Debug\Lab-02e.exe
