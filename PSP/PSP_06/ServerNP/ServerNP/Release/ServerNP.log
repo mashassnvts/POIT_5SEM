@@ -1,0 +1,14 @@
+﻿  ServerNP.cpp
+D:\masha\university\PSP\lab6\ServerNP\ServerNP\ServerNP.cpp(8,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\masha\university\PSP\lab6\ServerNP\ServerNP\ServerNP.cpp(10,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 112 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ServerNP.vcxproj -> D:\masha\university\PSP\lab6\ServerNP\Release\ServerNP.exe
