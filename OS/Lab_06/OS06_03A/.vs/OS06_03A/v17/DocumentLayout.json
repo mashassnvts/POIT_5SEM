@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masha\\university\\OS\\Lab_06\\OS06_03A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB409D3-2A70-4528-A755-B0126F2B6612}|OS06_03A\\OS06_03A.vcxproj|D:\\masha\\university\\OS\\Lab_06\\OS06_03A\\OS06_03A\\OS06_03A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAB409D3-2A70-4528-A755-B0126F2B6612}|OS06_03A\\OS06_03A.vcxproj|solutionrelative:OS06_03A\\OS06_03A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS06_03A.cpp",
+              "DocumentMoniker": "D:\\masha\\university\\OS\\Lab_06\\OS06_03A\\OS06_03A\\OS06_03A.cpp",
+              "RelativeDocumentMoniker": "OS06_03A\\OS06_03A.cpp",
+              "ToolTip": "D:\\masha\\university\\OS\\Lab_06\\OS06_03A\\OS06_03A\\OS06_03A.cpp",
+              "RelativeToolTip": "OS06_03A\\OS06_03A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T18:30:27.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
