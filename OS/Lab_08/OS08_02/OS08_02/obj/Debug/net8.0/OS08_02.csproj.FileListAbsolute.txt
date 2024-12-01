@@ -1,0 +1,14 @@
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\bin\Debug\net8.0\OS08_02.exe
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\bin\Debug\net8.0\OS08_02.deps.json
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\bin\Debug\net8.0\OS08_02.runtimeconfig.json
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\bin\Debug\net8.0\OS08_02.dll
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\bin\Debug\net8.0\OS08_02.pdb
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.AssemblyInfoInputs.cache
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.AssemblyInfo.cs
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.csproj.CoreCompileInputs.cache
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.dll
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\refint\OS08_02.dll
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.pdb
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\OS08_02.genruntimeconfig.cache
+D:\masha\university\OS\Lab_08\OS08_02\OS08_02\obj\Debug\net8.0\ref\OS08_02.dll

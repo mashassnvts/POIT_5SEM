@@ -1,0 +1,3 @@
+﻿  OS07_04_X.cpp
+D:\masha\university\OS\Lab_07\OS07_04_X\OS07_04_X\OS07_04_X.cpp(30,49): warning C4018: >=: несоответствие типов со знаком и без знака
+  OS07_04_X.vcxproj -> D:\masha\university\OS\Lab_07\OS07_04_X\x64\Debug\OS07_04_X.exe
