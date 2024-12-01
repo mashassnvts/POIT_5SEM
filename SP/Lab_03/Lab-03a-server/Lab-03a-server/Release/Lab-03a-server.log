@@ -1,0 +1,9 @@
+﻿  Lab-03a-server.c
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,4): error C2143: синтаксическая ошибка: отсутствие "{" перед "-"
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,4): error C2059: синтаксическая ошибка: -
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,5): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,107): error C2017: недопустимая escape-последовательность
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,108): error C2017: недопустимая escape-последовательность
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,110): error C2017: недопустимая escape-последовательность
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,115): error C2017: недопустимая escape-последовательность
+D:\masha\university\SP\Условия\коллок\Lab-03a-server\Lab-03a-server\Lab-03a-server.c(106,135): error C2017: недопустимая escape-последовательность

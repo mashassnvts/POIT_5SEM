@@ -1,0 +1,8 @@
+﻿  Lab-04b.c
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(16,1): error C2054: требуется "(" после "__thread"
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(16,27): error C2057: требуется константное выражение
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(16,27): error C2466: невозможно выделить память для массива постоянного нулевого размера
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(16,14): error C2085: threadBuffer: отсутствует в списке формальных параметров
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(17,1): error C2061: синтаксическая ошибка: идентификатор "__thread"
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(45,24): error C2065: threadBuffer: необъявленный идентификатор
+D:\masha\university\SP\SP_04\Lab-04b\Lab-04b\Lab-04b.c(45,10): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"

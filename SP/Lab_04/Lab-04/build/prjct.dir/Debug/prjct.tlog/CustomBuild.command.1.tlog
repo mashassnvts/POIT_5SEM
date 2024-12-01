@@ -1,0 +1,10 @@
+^D:\MASHA\UNIVERSITY\SP\SP_04\LAB-04\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/masha/university/SP/SP_04/Lab-04 -BD:/masha/university/SP/SP_04/Lab-04/build --check-stamp-file D:/masha/university/SP/SP_04/Lab-04/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

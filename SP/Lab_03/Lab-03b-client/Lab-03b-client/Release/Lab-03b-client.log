@@ -1,0 +1,8 @@
+﻿  Lab-03b-client.c
+D:\masha\university\SP\Условия\коллок\Lab-03b-client\Lab-03b-client\Lab-03b-client.c(61,10): warning C4101: pchMessage: неиспользованная локальная переменная
+  Создание кода
+  5 of 11 functions (45.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab-03b-client.vcxproj -> D:\masha\university\SP\Условия\коллок\Lab-03b-client\Release\Lab-03b-client.exe

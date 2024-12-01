@@ -1,0 +1,4 @@
+/mnt/d/masha/university/SP/SP_03/CMakeFiles/server.dir
+/mnt/d/masha/university/SP/SP_03/CMakeFiles/client.dir
+/mnt/d/masha/university/SP/SP_03/CMakeFiles/edit_cache.dir
+/mnt/d/masha/university/SP/SP_03/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/masha/university/SP/SP_04/Lab-04b/build/CMakeFiles/prjct.dir
+D:/masha/university/SP/SP_04/Lab-04b/build/CMakeFiles/ALL_BUILD.dir
+D:/masha/university/SP/SP_04/Lab-04b/build/CMakeFiles/ZERO_CHECK.dir

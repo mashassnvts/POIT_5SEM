@@ -1,0 +1,1 @@
+clang "CMakeFiles/laba.dir/Lab-04l.c.o" -o laba 

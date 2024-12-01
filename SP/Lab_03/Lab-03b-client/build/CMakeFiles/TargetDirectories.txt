@@ -1,0 +1,3 @@
+D:/masha/university/SP/Условия/коллок/Lab-03b-client/build/CMakeFiles/prjct.dir
+D:/masha/university/SP/Условия/коллок/Lab-03b-client/build/CMakeFiles/ALL_BUILD.dir
+D:/masha/university/SP/Условия/коллок/Lab-03b-client/build/CMakeFiles/ZERO_CHECK.dir

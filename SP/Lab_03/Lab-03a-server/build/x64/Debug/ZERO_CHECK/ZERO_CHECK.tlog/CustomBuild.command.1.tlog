@@ -1,0 +1,10 @@
+^D:\MASHA\UNIVERSITY\SP\УСЛОВИЯ\КОЛЛОК\LAB-03A-SERVER\BUILD\CMAKEFILES\306B61E04C4B556818A4A3D80B2F595B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/masha/university/SP/Условия/коллок/Lab-03a-server -BD:/masha/university/SP/Условия/коллок/Lab-03a-server/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/masha/university/SP/Условия/коллок/Lab-03a-server/build/Lab-03a-server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
