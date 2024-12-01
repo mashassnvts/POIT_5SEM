@@ -1,0 +1,13 @@
+﻿  ClientTime.cpp
+D:\masha\university\PSP\Условия\lab8-10\Client\ClientTime\ClientTime.cpp(11,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\masha\university\PSP\Условия\lab8-10\Client\ClientTime\ClientTime.cpp(13,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+D:\masha\university\PSP\Условия\lab8-10\Client\ClientTime\ClientTime.cpp(129,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\university\PSP\Условия\lab8-10\Client\ClientTime\ClientTime.cpp(224,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\university\PSP\Условия\lab8-10\Client\ClientTime\ClientTime.cpp(185,17): warning C4101: serverAddr: неиспользованная локальная переменная
+  ClientTime.vcxproj -> D:\masha\university\PSP\Условия\lab8-10\Client\x64\Debug\ClientTime.exe
