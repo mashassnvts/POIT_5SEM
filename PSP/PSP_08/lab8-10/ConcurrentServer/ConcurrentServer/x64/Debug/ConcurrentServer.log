@@ -1,0 +1,28 @@
+﻿  ConcurrentServer.cpp
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(10,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(12,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(257,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+      D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(257,20):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(269,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+      D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(269,20):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(336,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(373,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(381,85): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(436,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(481,1): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "unsigned __int64"
+      D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(481,1):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(490,57): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\masha\lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(322,1): warning C4715: set_param: значение возвращается не при всех путях выполнения
+  ConcurrentServer.vcxproj -> D:\masha\lab8-10\ConcurrentServer\x64\Debug\ConcurrentServer.exe

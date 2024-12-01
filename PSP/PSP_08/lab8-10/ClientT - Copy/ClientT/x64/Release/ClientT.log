@@ -1,0 +1,9 @@
+﻿  ClientT.cpp
+D:\masha\lab8-10\ClientT - Copy\ClientT\ClientT.cpp(53,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ClientT - Copy\ClientT\ClientT.cpp(69,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\masha\lab8-10\ClientT - Copy\ClientT\ClientT.cpp(75,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 100 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ClientT.vcxproj -> D:\masha\lab8-10\ClientT - Copy\x64\Release\ClientT.exe
