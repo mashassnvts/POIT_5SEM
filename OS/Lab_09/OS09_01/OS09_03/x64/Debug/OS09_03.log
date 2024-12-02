@@ -1,0 +1,5 @@
+﻿  OS09_03.cpp
+D:\masha\university\OS\Lab_09\OS09_01\OS09_03\OS09_03.cpp(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\masha\university\OS\Lab_09\OS09_01\OS09_03\OS09_03.cpp(90,26): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
+D:\masha\university\OS\Lab_09\OS09_01\OS09_03\OS09_03.cpp(117,26): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
+  OS09_03.vcxproj -> D:\masha\university\OS\Lab_09\OS09_01\x64\Debug\OS09_03.exe
