@@ -1,0 +1,10 @@
+^D:\MASHA\UNIVERSITY\SP\SP_05\LAB-05A\BUILD\CMAKEFILES\D4EA1D02EC97DF75F03E8F49842A52A5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/masha/university/SP/SP_05/Lab-05a -BD:/masha/university/SP/SP_05/Lab-05a/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/masha/university/SP/SP_05/Lab-05a/build/Lab-05a.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

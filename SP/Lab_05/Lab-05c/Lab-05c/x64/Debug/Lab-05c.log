@@ -1,0 +1,6 @@
+﻿  Lab-05c.c
+D:\masha\university\SP\SP_05\Lab-05c\Lab-05c\Lab-05c.c(16,16): warning C4477: "printf": в строке форматирования "%zu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "DWORD"
+      D:\masha\university\SP\SP_05\Lab-05c\Lab-05c\Lab-05c.c(16,16):
+      рекомендуется использовать "%lu" в строке форматирования
+  
+  Lab-05c.vcxproj -> D:\masha\university\SP\SP_05\Lab-05c\x64\Debug\Lab-05c.exe

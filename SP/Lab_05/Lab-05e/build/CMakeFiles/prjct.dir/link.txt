@@ -1,0 +1,1 @@
+clang "CMakeFiles/prjct.dir/Lab-05e.c.o" -o prjct 
